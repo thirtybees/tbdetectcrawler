@@ -1,0 +1,19 @@
+{
+    "name": "thirtybees/tbdetectcrawler",
+    "description": "This module implements bot detection functionality",
+    "license": "AFL 3.0",
+    "authors": [
+        {
+            "name": "thirtybees",
+            "email": "contact@thirtybees.com"
+        }
+    ],
+    "config": {
+        "platform": {
+            "php": "7.4"
+        }
+    },
+    "require": {
+        "jaybizzle/crawler-detect": "^1.2"
+    }
+}
